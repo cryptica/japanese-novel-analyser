@@ -1,0 +1,1 @@
+This program analyses novels written in Japanese by generating frequency lists of the used words. It helps the user to study and view important words by showing them based on part-of-speech.
